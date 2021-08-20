@@ -12,9 +12,13 @@ header {
   font-family: 'Staatliches', cursive;
 }
 
+footer {
+  padding: 15px;
+}
+
 footer a,
 footer {
-  color: #1d3557;
+  color: #457b9d;
   text-decoration: none;
   transition: all 120ms ease-in-out;
 }
