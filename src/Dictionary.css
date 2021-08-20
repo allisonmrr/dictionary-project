@@ -1,9 +1,14 @@
+.Dictionary {
+  font-family: 'Open Sans', sans-serif;
+}
+
 .Dictionary section {
-  background-color: pink;
+  background-color: white;
   padding: 30px;
   border-radius: 8px;
-  margin: 20px 10px;
+  margin: 20px 60px;
   box-shadow: 0 10px 10px rgb(0 0 0 / 10%);
+  color: #353846;
 }
 
 .Dictionary input {

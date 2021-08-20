@@ -1,0 +1,18 @@
+.Phonetics {
+  height: 60px;
+}
+
+.audio-button {
+  margin-right: 10px;
+  transition: all 120ms ease-in-out;
+  color: #457b9d;
+  font-size: 18px;
+}
+
+.audio-button:hover {
+  font-size: 24px;
+}
+
+.Phonetics p {
+  color: #e63946;
+}
