@@ -7,7 +7,7 @@ export default function App() {
       <header className="App-header">
         <h1>Dictionary App</h1>
       </header>
-      <Dictionary />
+      <Dictionary defaultKeyword="hello" />
       <footer className="text-center">
         <a
           href="https://github.com/allisonmrr/dictionary-project"
