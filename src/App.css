@@ -1,8 +1,14 @@
+body {
+  background: #fdf8fa;
+}
+
 header {
   text-align: center;
 }
+
 .App {
-  background: #fdf8fa;
+  max-width: 960px;
+  margin: 0 auto;
 }
 
 .App h1 {
