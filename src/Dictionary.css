@@ -2,6 +2,13 @@
   font-family: 'Open Sans', sans-serif;
 }
 
+.Dictionary h3 {
+  font-size: 24px;
+  line-height: 1.5;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
 .Dictionary section {
   background-color: white;
   padding: 30px;
