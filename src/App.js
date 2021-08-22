@@ -9,7 +9,7 @@ export default function App() {
           <i class="fas fa-book"></i> Dictionary
         </h1>
       </header>
-      <Dictionary defaultKeyword="hello" />
+      <Dictionary defaultKeyword="welcome" />
       <footer className="text-center">
         <a
           href="https://github.com/allisonmrr/dictionary-project"
